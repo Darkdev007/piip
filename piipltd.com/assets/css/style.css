@@ -1349,6 +1349,7 @@ body {
 
 .cellpadding {
     padding: 70px 0;
+    
 }
 
 .cellpadding-top {
@@ -1442,7 +1443,6 @@ body {
     padding: 1em;
     border-radius: 3px;
 }
-
 .what_we_offers {
     background: url("../images/home1/weoffer_bg.jpg") no-repeat;
     background-size: cover;
@@ -1467,11 +1467,15 @@ body {
 
 .what_we_offers li {
     float: left;
-    width: 33.3333333333%;
+    width: 30%;
     list-style: none;
     background: #fff;
-    padding: 40px 50px;
+    padding: 15px 30px;
     text-align: center;
+    margin-left: 2.5%;
+    align-self: center;
+    box-shadow: rgb(192, 220, 253) 0px 0px 20px 1px;
+    border-radius: 40px;
 }
 
 .what_we_offers li i {
@@ -3538,6 +3542,8 @@ ul.tt-socail {
     font-weight: 700;
     margin-top: 0;
 }
+
+
 
 .timerWrapper {
     text-align: center;
