@@ -1,0 +1,1 @@
+chrome-extension://pocmplpaccanhmnllbbkpgfliimjljgo/js/inpage-script.js
