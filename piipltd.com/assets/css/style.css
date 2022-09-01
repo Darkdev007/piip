@@ -13,8 +13,8 @@ Table of Content:
 05 - About Section
 =====================================================================*/
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,500i,600,600i,700,700i&amp;display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600&amp;display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,500i,600,600i,700,700i&amp;display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600&amp;display=swap'); */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 
 /*01 - TT-HEADER */
@@ -139,6 +139,7 @@ Table of Content:
 .tt-header .top-info a:hover {
     color: #242424;
 }
+
 
 .tt-header .top-social li {
     display: inline-block;
@@ -1248,9 +1249,9 @@ body {
     vertical-align: bottom;
 }
 
-:before {
+/* :before {
     display: none;
-}
+} */
 
 .tt-mslide:before {
     content: '';
@@ -1460,6 +1461,7 @@ body {
     top: 0;
     bottom: 0;
 }
+
 
 .what_we_offers .content {
     position: relative;
